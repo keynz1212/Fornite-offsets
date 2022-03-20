@@ -1,2 +1,2 @@
 # Fornite-offsets
-Fortnite offsets, updated every update-
+Fortnite offsets, updated every update.
